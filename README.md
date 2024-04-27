@@ -52,3 +52,7 @@ Type 'yes' to play again, else 'no' to quit:
 Type 'yes' to play again, else 'no' to quit: 
 	no
 👋 Bye!
+
+## Screenshot
+![12](https://github.com/trupti142003/BYTEUPRISE_CS_03/assets/142775954/bb6af461-9e55-493a-a33f-eb499950a5d5)
+
